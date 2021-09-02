@@ -13,6 +13,8 @@ All code goes in the `/src` directory. Follow Java standards accordingly.
 
 Use the `build.ps1` script to build the Java class files.
 
+Use the `build-jar.ps1` script to build a JAR file. (Might not work that well...)
+
 ### Debugging
 
 The `launch.json` is already set up for VSCode debugging, so you can start debugging from VSCode immediately.
