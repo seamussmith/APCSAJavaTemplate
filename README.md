@@ -5,7 +5,7 @@ There are many like it, but this one is mine!
 
 ## Usage
 
-### Writing Code
+### Coding
 
 All code goes in the `/src` directory. Follow Java standards accordingly.
 
