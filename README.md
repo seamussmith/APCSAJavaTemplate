@@ -15,4 +15,4 @@ Use the `build.ps1` script to build the Java class files.
 
 ### Debugging
 
-Debugging with vscode is already set up in the `/.vscode` directory, so you can start debugging from VSCode immediately.
+Debugging with VSCode is already set up in the `/.vscode` directory, so you can start debugging from VSCode immediately.
