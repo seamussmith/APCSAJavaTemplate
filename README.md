@@ -15,5 +15,4 @@ In VSCode, use the Run and Debug feature to run or debug. (Click on the bug and 
 
 ### Building
 
-Use the `build-jar.ps1` script to build a JAR file. (Might not work that well, considering how rude Java was to me for the past 3 hours)
-
+Use the `build-jar.ps1` script to build a JAR file. The JAR file will be in the `/dist` folder (Might not work that well, considering how rude Java was to me for the past 3 hours)
