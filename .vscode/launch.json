@@ -6,16 +6,15 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Current File",
+            "name": "Launch App",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "com.App",
         },
         {
             "type": "java",
-            "name": "Launch App",
+            "name": "Launch Current File",
             "request": "launch",
-            "mainClass": "App",
-            "projectName": "APCSAJavaTemplate_414c4a40"
+            "mainClass": "${file}"
         }
     ]
 }
