@@ -11,7 +11,7 @@ All code goes in the `/src` directory. Follow Java standards accordingly.
 
 ### Running and Debugging
 
-In VSCode, use the Run and Debug feature to run or debug. (Click on the bug and play button on the left side, or press `F5`)
+In VSCode, use the Run and Debug feature to run or debug. (Click on the bug and play button on the left side, or press <kbd>F5</kbd>)
 
 ### Building
 
